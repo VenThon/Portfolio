@@ -33,6 +33,9 @@ import { getImageUrl } from "../../utils";
                 <li>
                     <a href="#contact">Contact</a>
                 </li>
+                <li>
+                    <a href="#history">History</a>
+                </li>
             </ul>
         </div>
     </nav>

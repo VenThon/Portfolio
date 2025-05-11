@@ -1,28 +1,41 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Junior Software Engineer",
+      "organisation": "DGC",
+      "startDate": "August, 2024",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": ["Frontend SSO Project", "FullStack FormKh"],
       "imageSrc": "history/google.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "role": "Internship",
+      "organisation": "LCS of MEF",
+      "startDate": "March-01-2024",
+      "endDate": "May-31-2024",
+      "experiences": ["UX/UI on Book Inventory Management System",
+       "FullStack Book Inventory Management System"
+      ],
       "imageSrc": "history/microsoft.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Internship",
+      "organisation": "GIC at ITC",
+      "startDate": "Sep, 2023",
+      "endDate": "Oct, 2023",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "UX/UI WIFI Management System",
+        "Frontend WIFI Management System"
+      ],
+      "imageSrc": "history/netflix.png"
+    },
+    {
+      "role": "Project",
+      "organisation": "Project and Assignment",
+      "startDate": "Oct, 2022",
+      "endDate": "Feb, 2024",
+      "experiences": [
+        "UX/UI WIFI Management System",
+        "Frontend WIFI Management System"
       ],
       "imageSrc": "history/netflix.png"
     }
