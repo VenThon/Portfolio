@@ -31,11 +31,11 @@ import { getImageUrl } from "../../utils";
                     <a href="#project">Project</a>
                 </li>
                 <li>
-                    <a href="#contact">Contact</a>
-                </li>
-                <li>
                     <a href="#history">History</a>
                 </li>
+                <li>
+                    <a href="#contact">Contact</a>
+                </li>          
             </ul>
         </div>
     </nav>
